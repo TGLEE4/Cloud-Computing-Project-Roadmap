@@ -10,7 +10,7 @@ deployed on AWS Free Tier.
 
 | # | Project | Repo | Status |
 |---|---|---|---|
-| 1 | AWS Account Hardening | coming soon | ✅ Complete |
+| 1 | AWS Account Hardening | [resil-project-01-aws-hardening](https://github.com/TGLEE4/resil-project-01-aws-hardening) | ✅ Complete |
 | 2 | S3 Static Website | [resil-project-02-s3-website](https://github.com/TGLEE4/resil-project-02-s3-website) | ✅ Complete |
 | 3 | EC2 Web Server | coming soon | 🔄 In Progress |
 | 4 | CloudFront + HTTPS | coming soon | ⬜ Upcoming |
