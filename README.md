@@ -13,7 +13,7 @@ deployed on AWS Free Tier.
 | 1 | AWS Account Hardening | [resil-project-01-aws-hardening](https://github.com/TGLEE4/resil-project-01-aws-hardening) | ✅ Complete |
 | 2 | S3 Static Website | [resil-project-02-s3-website](https://github.com/TGLEE4/resil-project-02-s3-website) | ✅ Complete |
 | 3 | EC2 Web Server | [resil-project-03-ec2-webserver](https://github.com/TGLEE4/resil-project-03-ec2-webserver) | ✅ Complete |
-| 4 | CloudFront + HTTPS | coming soon | ⬜ Upcoming |
+| 4 | CloudFront + HTTPS | [resil-project-04-cloudfront](https://github.com/TGLEE4/resil-project-04-cloudfront) | ✅ Complete |
 | 5 | Route 53 Custom Domain | coming soon | ⬜ Upcoming |
 | 6 | Lambda Serverless Function | coming soon | ⬜ Upcoming |
 | 7 | API Gateway + Lambda | coming soon | ⬜ Upcoming |
@@ -25,7 +25,22 @@ deployed on AWS Free Tier.
 
 ## Tools & Environment
 
-- Ubuntu 24.04
-- Terraform v1.15.3
-- AWS CLI
-- Git 2.43.0
+| Tool | Version |
+|---|---|
+| OS | Ubuntu 24.04.4 LTS (WSL2) |
+| Terraform | v1.15.3 |
+| AWS CLI | 2.34.48 |
+| Git | 2.43.0 |
+| GitHub CLI | 2.45.0 |
+
+---
+
+## Skills Demonstrated
+
+- AWS account security hardening
+- S3 static website hosting
+- EC2 provisioning and configuration
+- CloudFront CDN with HTTPS enforcement
+- Origin Access Control (OAC)
+- Infrastructure as Code (Terraform)
+- Git version control
