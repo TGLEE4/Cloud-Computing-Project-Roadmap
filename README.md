@@ -14,7 +14,7 @@ deployed on AWS Free Tier.
 | 2 | S3 Static Website | [resil-project-02-s3-website](https://github.com/TGLEE4/resil-project-02-s3-website) | ✅ Complete |
 | 3 | EC2 Web Server | [resil-project-03-ec2-webserver](https://github.com/TGLEE4/resil-project-03-ec2-webserver) | ✅ Complete |
 | 4 | CloudFront + HTTPS | [resil-project-04-cloudfront](https://github.com/TGLEE4/resil-project-04-cloudfront) | ✅ Complete |
-| 5 | Route 53 Custom Domain | coming soon | ⬜ Upcoming |
+| 5 | Route 53 Custom Domain | [resil-project-05-route53](https://github.com/TGLEE4/resil-project-05-route53) | ✅ Complete |
 | 6 | Lambda Serverless Function | coming soon | ⬜ Upcoming |
 | 7 | API Gateway + Lambda | coming soon | ⬜ Upcoming |
 | 8 | RDS Database | coming soon | ⬜ Upcoming |
