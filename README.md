@@ -16,7 +16,7 @@ deployed on AWS Free Tier.
 | 4 | CloudFront + HTTPS | [resil-project-04-cloudfront](https://github.com/TGLEE4/resil-project-04-cloudfront) | ✅ Complete |
 | 5 | Route 53 Custom Domain | [resil-project-05-route53](https://github.com/TGLEE4/resil-project-05-route53) | ✅ Complete |
 | 6 | Lambda Serverless Function | [resil-project-06-lambda](https://github.com/TGLEE4/resil-project-06-lambda) | ✅ Complete |
-| 7 | API Gateway + Lambda | coming soon | 🔲 Upcoming |
+| 7 | API Gateway + Lambda | [resil-project-07-api-gateway-lambda](https://github.com/TGLEE4/resil-project-07-api-gateway-lambda) | ✅ Complete |
 | 8 | Docker | coming soon | 🔲 Upcoming |
 | 9 | Kubernetes + EKS | coming soon | 🔲 Upcoming |
 | 10 | CI/CD + GitHub Actions | coming soon | 🔲 Upcoming |
