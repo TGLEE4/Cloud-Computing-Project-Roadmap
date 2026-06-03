@@ -17,7 +17,7 @@ deployed on AWS Free Tier.
 | 5 | Route 53 Custom Domain | [resil-project-05-route53](https://github.com/TGLEE4/resil-project-05-route53) | ✅ Complete |
 | 6 | Lambda Serverless Function | [resil-project-06-lambda](https://github.com/TGLEE4/resil-project-06-lambda) | ✅ Complete |
 | 7 | API Gateway + Lambda | [resil-project-07-api-gateway-lambda](https://github.com/TGLEE4/resil-project-07-api-gateway-lambda) | ✅ Complete |
-| 8 | Docker | coming soon | 🔲 Upcoming |
+| 8 | Docker | [resil-project-08-docker](https://github.com/TGLEE4/resil-project-08-docker) | ✅ Complete |
 | 9 | Kubernetes + EKS | coming soon | 🔲 Upcoming |
 | 10 | CI/CD + GitHub Actions | coming soon | 🔲 Upcoming |
 | 11 | Prometheus + Grafana | coming soon | 🔲 Upcoming |
@@ -39,9 +39,17 @@ deployed on AWS Free Tier.
 ## Skills Demonstrated
 
 - AWS account security hardening
+- IAM users, permissions, and least-privilege access
 - S3 static website hosting
-- EC2 provisioning and configuration
+- EC2 provisioning and Linux web server configuration
 - CloudFront CDN with HTTPS enforcement
 - Origin Access Control (OAC)
+- Route 53 DNS management and custom domain routing
+- ACM SSL/TLS certificate validation
+- Lambda serverless function deployment
+- API Gateway HTTP API integration with Lambda
+- Docker image builds and container lifecycle basics
+- Local container testing with port mapping
 - Infrastructure as Code (Terraform)
-- Git version control
+- Git and GitHub version control
+- Technical documentation and project README writing
