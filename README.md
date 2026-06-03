@@ -26,13 +26,17 @@ deployed on AWS Free Tier.
 
 ## Tools & Environment
 
-| Tool | Version |
+| Tool | Version / Use |
 |---|---|
-| OS | Ubuntu 24.04.4 LTS (WSL2) |
+| OS | Ubuntu 24.04.4 LTS through WSL2 |
+| VS Code | Code editor opened from WSL using `code .` |
 | Terraform | v1.15.3 |
 | AWS CLI | 2.34.48 |
 | Git | 2.43.0 |
 | GitHub CLI | 2.45.0 |
+| Docker Engine | Used to build Docker images and run containers |
+| Python | 3.12 runtime used inside the Docker container |
+| curl | Used to test local and cloud HTTP endpoints |
 
 ---
 
