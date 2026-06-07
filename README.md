@@ -18,7 +18,7 @@ Personal project roadmap documenting my journey learning AWS cloud infrastructur
 | 7  | API Gateway + Lambda       | [resil-project-07-api-gateway-lambda](https://github.com/TGLEE4/resil-project-07-api-gateway-lambda)                                       | ✅ Complete |
 | 8  | Docker                     | [resil-project-08-docker](https://github.com/TGLEE4/resil-project-08-docker)                                                               | ✅ Complete |
 | 9  | Kubernetes + EKS           | coming soon                                                                                                                                | 🔲 Upcoming |
-| 10 | CI/CD + GitHub Actions     | [tenglee-portfolio CI/CD docs](https://github.com/TGLEE4/tenglee-portfolio/blob/main/docs/ci-cd-github-actions.md)                         | ✅ Complete |
+| 10 | CI/CD + GitHub Actions     | [resil-project-10-CI/CD](https://github.com/TGLEE4/tenglee-portfolio/blob/main/docs/ci-cd-github-actions.md)                               | ✅ Complete |
 | 11 | Prometheus + Grafana       | coming soon                                                                                                                                | 🔲 Upcoming |
 
 ---
