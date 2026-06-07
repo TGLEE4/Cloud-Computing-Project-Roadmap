@@ -25,17 +25,22 @@ Personal project roadmap documenting my journey learning AWS cloud infrastructur
 
 ## Tools & Environment
 
-| Tool          | Version / Use                                  |
-| ------------- | ---------------------------------------------- |
-| OS            | Ubuntu 24.04.4 LTS through WSL2                |
-| VS Code       | Code editor opened from WSL using `code .`     |
-| Terraform     | v1.15.3                                        |
-| AWS CLI       | 2.34.48                                        |
-| Git           | 2.43.0                                         |
-| GitHub CLI    | 2.45.0                                         |
-| Docker Engine | Used to build Docker images and run containers |
-| Python        | 3.12 runtime used inside the Docker container  |
-| curl          | Used to test local and cloud HTTP endpoints    |
+| Tool             | Version / Use                                                 |
+| ---------------- | --------------------------------------------------------------|
+| OS               | Ubuntu 24.04.4 LTS through WSL2                               |
+| VS Code          | Code editor opened from WSL using `code .`                    |
+| Terraform        | v1.15.3                                                       |
+| AWS CLI          | 2.34.48                                                       |
+| Git              | 2.43.0                                                        |
+| GitHub CLI       | 2.45.0                                                        |
+| GitHub Actions   | Used to automate CI/CD deployment for the portfolio website   |
+| GitHub OIDC      | Used for secure GitHub-to-AWS authentication without AWS keys |
+| Docker Engine    | Used to build Docker images and run containers                |
+| Python           | 3.12 runtime used inside the Docker container                 |
+| curl             | Used to test local and cloud HTTP endpoints                   |
+| Amazon S3        | Stores static website files                                   |
+| Amazon CloudFront| Delivers website content and supports cache invalidation      |
+| AWS IAM          | Used for least-privilege roles, policies, and OIDC trust      |
 
 ---
 
