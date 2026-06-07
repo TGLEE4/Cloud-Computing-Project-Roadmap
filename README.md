@@ -47,7 +47,13 @@ Personal project roadmap documenting my journey learning AWS cloud infrastructur
 ## Skills Demonstrated
 
 * AWS account security hardening
-* IAM users, permissions, and least-privilege access
+* IAM users, roles, permissions, and least-privilege access
+* IAM permission policies and trust policies
+* GitHub OIDC authentication with AWS
+* Secure CI/CD deployment without long-term AWS access keys
+* GitHub Actions workflow automation
+* Automated S3 deployment from GitHub
+* Automated CloudFront cache invalidation
 * S3 static website hosting
 * EC2 provisioning and Linux web server configuration
 * Production-style EC2 security hardening
